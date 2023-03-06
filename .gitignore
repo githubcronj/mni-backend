@@ -1,0 +1,7 @@
+/node_modules
+practice.js
+output.txt
+package-lock.json
+src/service/dataValidation.js
+.env
+demo.js
