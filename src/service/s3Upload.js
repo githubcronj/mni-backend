@@ -1,9 +1,9 @@
 const aws = require("aws-sdk");
 
 aws.config.update({
-    accessKeyId: "AKIAQ2G3PA55ZJNQZNNJ",
-    secretAccessKey: "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",
-    region: "ap-south-1"
+    accessKeyId: "",
+    secretAccessKey: "",
+    region: ""
 });
 
 let uploadFile = async (file) => {
